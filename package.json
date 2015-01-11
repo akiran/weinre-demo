@@ -1,0 +1,25 @@
+{
+  "name": "weinre-demo",
+  "version": "1.0.0",
+  "description": "weinre setup for debug on mobile devices",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiran/weinre-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akiran/weinre-demo/issues"
+  },
+  "homepage": "https://github.com/akiran/weinre-demo",
+  "dependencies": {
+    "express": "^4.10.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.2.1"
+  }
+}
